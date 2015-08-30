@@ -30,7 +30,7 @@ section#page-header span.byline {
 	font-size: .4em;
 	}
 	
-section#page {
+div#page {
 	max-width: 50em;
 	padding: .5em;
 	margin: 0 auto;
