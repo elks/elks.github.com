@@ -62,7 +62,7 @@ article.post p {
 	line-height: 1.5em;
 	}
 	
-section.post-content p {
+div.post-content p {
 	margin: 1.25em 0 .75em 0;
 	}
 
@@ -73,19 +73,19 @@ footer p {
 	margin: 0 0 4em 0;
 	}
 
-section.post-content blockquote {
+div.post-content blockquote {
 	background-color: #EEE;
 	padding: .125em 1em .125em 2.5em;
 	border-left: .25em solid #E53839;
 	margin: 0;
 	}
 	
-section.post-content a:link, section.post-content a:active, section.post-content a:visited {
+div.post-content a:link, div.post-content a:active, div.post-content a:visited {
 	color: #E53839;
 	text-decoration: none;
 	}
 
-section.post-content a:hover, section.post-content a:focus {
+div.post-content a:hover, div.post-content a:focus {
 	text-decoration: underline;
 	}
 	
