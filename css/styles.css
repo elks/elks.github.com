@@ -97,4 +97,13 @@ a:link, a:active, a:visited {
 a:hover, a:focus {
 	text-decoration: underline;
 	}
+
+img {
+	max-width: 100%;
+	height: auto;
+	}
 	
+p.caption {
+	font-size: .5em;
+	background-color: #EEE;
+	}
