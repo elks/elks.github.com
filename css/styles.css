@@ -142,6 +142,11 @@ nav#prev-next a:link, nav#prev-next a:active, nav#prev-next a:visited {
 nav#prev-next a:hover, nav#prev-next a:focus {
 	text-decoration: underline;
 	}
+	
+nav#prev-next ul {
+	margin: 0;
+	padding: 0;
+}
 
 div.clear {
 	clear: both;
