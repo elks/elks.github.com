@@ -111,14 +111,18 @@ article.post p.caption {
 article.post p.photo-credit {
 	font-size: .5em;
 	}
+	
+li.prev-post, li.next-post {
+	background-color: #EEE;
+	padding: .5em 1em;
+	list-style: none;
+}
 
 li.prev-post {
-	background-color: #EEE;
 	float: left;
 }
 
 li.next-post {
-	background-color: #EEE;
 	float: right;
 }
 
@@ -135,6 +139,10 @@ nav#prev-next a:link, nav#prev-next a:active, nav#prev-next a:visited {
 	text-decoration: none;
 	}
 
-div#prev-next a:hover, nav#prev-next a:focus {
+nav#prev-next a:hover, nav#prev-next a:focus {
 	text-decoration: underline;
 	}
+
+div.clear {
+	clear: both;
+}
