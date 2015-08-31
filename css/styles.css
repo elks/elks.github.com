@@ -103,7 +103,7 @@ img {
 	height: auto;
 	}
 	
-p.caption {
+article.post p.caption {
 	font-size: .5em;
 	background-color: #EEE;
 	}
