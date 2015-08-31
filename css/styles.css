@@ -112,17 +112,29 @@ article.post p.photo-credit {
 	font-size: .5em;
 	}
 
-p.prev-post {
+li.prev-post {
 	background-color: #EEE;
 	float: left;
 }
 
-p.next-post {
+li.next-post {
 	background-color: #EEE;
 	float: right;
-	clear: left;
 }
 
-p.hide {
+li.hide {
 	display: none;
 }
+
+nav#prev-next {
+	font-family: Junction;
+}
+
+nav#prev-next a:link, nav#prev-next a:active, nav#prev-next a:visited {
+	color: #E53839;
+	text-decoration: none;
+	}
+
+div#prev-next a:hover, nav#prev-next a:focus {
+	text-decoration: underline;
+	}
