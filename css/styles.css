@@ -111,3 +111,18 @@ article.post p.caption {
 article.post p.photo-credit {
 	font-size: .5em;
 	}
+
+p.prev-post {
+	background-color: #EEE;
+	float: left;
+}
+
+p.next-post {
+	background-color: #EEE;
+	float: right;
+	clear: left;
+}
+
+p.hide {
+	display: none;
+}
