@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+	<channel>
+		<title>Random Bits by Erik Soderstrom</title>
+		<link>http://git.erik.ms/</link>
+		<description>A blog by Erik Soderstrom hosted on Github Pages</description>
+		<language>en-us</language>
+		<copyright>Copyright 2015 Erik Soderstrom</copyright>
+		<lastBuildDate>Mon, 31 Aug 2015 03:30:00 GMT</lastBuildDate>
+		<docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+		<ttl>120</ttl>
+	</channel>
+	<item>
+		<title>The First Post</title>
+		<link>http://git.erik.ms/post/the-first-post/</link>
+		<description>The first post on Random Bits by Erik Soderstrom</description>
+		<guid>http://git.erik.ms/post/the-first-post/</guid>
+		<source url="http://git.erik.ms/rss.xml">Random Bits</source>
+	</item>
+</rss>
