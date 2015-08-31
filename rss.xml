@@ -9,12 +9,12 @@
 		<lastBuildDate>Mon, 31 Aug 2015 03:30:00 GMT</lastBuildDate>
 		<docs>https://validator.w3.org/feed/docs/rss2.html</docs>
 		<ttl>120</ttl>
+		<item>
+			<title>The First Post</title>
+			<link>http://git.erik.ms/post/the-first-post/</link>
+			<description>The first post on Random Bits by Erik Soderstrom</description>
+			<guid>http://git.erik.ms/post/the-first-post/</guid>
+			<source url="http://git.erik.ms/rss.xml">Random Bits</source>
+		</item>
 	</channel>
-	<item>
-		<title>The First Post</title>
-		<link>http://git.erik.ms/post/the-first-post/</link>
-		<description>The first post on Random Bits by Erik Soderstrom</description>
-		<guid>http://git.erik.ms/post/the-first-post/</guid>
-		<source url="http://git.erik.ms/rss.xml">Random Bits</source>
-	</item>
 </rss>
