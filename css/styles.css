@@ -52,7 +52,7 @@ div.color-bar {
 	}
 
 article.post {
-	margin: 2em 0 4em 0;
+	margin: 2em 0 1em 0;
 	border-bottom: .25em solid #B2B2B2;
 	}
 
@@ -104,12 +104,12 @@ img {
 	}
 	
 article.post p.caption {
-	font-size: .5em;
+	font-size: .875em;
 	background-color: #EEE;
 	}
 	
 article.post p.photo-credit {
-	font-size: .5em;
+	font-size: .875em;
 	}
 	
 li.prev-post, li.next-post {
@@ -132,6 +132,7 @@ li.hide {
 
 nav#prev-next {
 	font-family: Junction;
+	margin: 0 0 3em 0;
 }
 
 nav#prev-next a:link, nav#prev-next a:active, nav#prev-next a:visited {
