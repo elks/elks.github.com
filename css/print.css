@@ -1,3 +1,16 @@
 .no-print {
 	display: none;
 	}
+	
+article.post p {
+	font-size: 1em;
+}
+
+article.post p.caption {
+	font-size: .5em;
+	background-color: #EEE;
+	}
+	
+article.post p.photo-credit {
+	font-size: .5em;
+	}
