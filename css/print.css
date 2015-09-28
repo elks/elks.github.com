@@ -19,3 +19,5 @@ article.post p.caption {
 article.post p.photo-credit {
 	font-size: .5em;
 	}
+
+p.share {display: none;}
