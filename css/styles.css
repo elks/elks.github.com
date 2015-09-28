@@ -152,3 +152,39 @@ nav#prev-next ul {
 div.clear {
 	clear: both;
 }
+
+/* Social Sharing Image Sprite and Markup */
+
+a.social_sprite {
+	background-image: url('http://git.erik.ms/assets/images/social-button-sprite.png');
+	background-repeat: no-repeat;
+	display: inline-block;
+	overflow: hidden;
+	text-indent: -9999px;
+}
+	
+a.fb_share {
+	width: 250px;
+	height: 60px;
+	background-position: 0px 0px;
+}
+	
+a.fb_share:hover {
+	width: 250px;
+	height: 60px;
+	background-position: 0px -60px;
+}
+	
+a.tw_share {
+	width: 250px;
+	height: 60px;
+	background-position: -250px 0px;
+}
+	
+a.tw_share:hover {
+	width: 250px;
+	height: 60px;
+	background-position: -250px -60px;
+}
+
+p.share {text-align: center;}
