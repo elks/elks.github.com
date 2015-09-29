@@ -6,7 +6,7 @@
 		<description>A blog by Erik Soderstrom hosted on Github Pages</description>
 		<language>en-us</language>
 		<copyright>Copyright 2015 Erik Soderstrom</copyright>
-		<lastBuildDate>Tue, 01 Sep 2015 13:51:00 EDT</lastBuildDate>
+		<lastBuildDate>Tue, 29 Sep 2015 10:57:00 EDT</lastBuildDate>
 		<docs>https://validator.w3.org/feed/docs/rss2.html</docs>
 		<ttl>120</ttl>
 		<atom:link href="http://git.erik.ms/rss.xml" rel="self" type="application/rss+xml" />
