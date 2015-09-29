@@ -161,7 +161,7 @@ a.social_sprite {
 	display: inline-block;
 	overflow: hidden;
 	text-indent: -9999px;
-	margin-right: 10px;
+	margin: 0px 5px 10px 5px;
 }
 	
 a.fb_share {
