@@ -155,7 +155,7 @@ div.clear {
 
 /* Social Sharing Image Sprite and Markup */
 
-a.social_sprite {
+a.social_sprite, a.social_sprite:active, a.social_sprite:link, a.social_sprite:visited {
 	font-family: "League Gothic";
 	font-size: 1.25em;
 	padding: .125em;
