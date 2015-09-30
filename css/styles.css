@@ -156,36 +156,38 @@ div.clear {
 /* Social Sharing Image Sprite and Markup */
 
 a.social_sprite {
-	background-image: url('http://git.erik.ms/assets/images/social-button-sprite.png');
-	background-repeat: no-repeat;
-	display: inline-block;
-	overflow: hidden;
-	text-indent: -9999px;
+	font-family: "League Gothic";
+	font-size: 1.25em;
+	padding: .125em;
+	border: 5px solid #909599;
+	background-color: #909599;
 	margin: 0px 5px 10px 5px;
-}
-	
-a.fb_share {
-	width: 250px;
-	height: 60px;
-	background-position: 0px 0px;
+	display: inline-block;
+	width: 2.5em;
+	transition: color .8s, background-color .8s, border-color .8s;
+	color: #FFFFFF;
+	text-decoration: none;
 }
 	
 a.fb_share:hover {
-	width: 250px;
-	height: 60px;
-	background-position: 0px -60px;
-}
-	
-a.tw_share {
-	width: 250px;
-	height: 60px;
-	background-position: -250px 0px;
+	color: #FFFFFF;
+	background-color: #3b5998;
+	text-decoration: none;
+	border-color: #3b5988;
 }
 	
 a.tw_share:hover {
-	width: 250px;
-	height: 60px;
-	background-position: -250px -60px;
+	color: #FFFFFF;
+	background-color: #00aced;
+	text-decoration: none;
+	border-color: #00aced;
+}
+
+a.pin_share {
+	color: #FFFFFF;
+	background-color: #C92228;
+	text-decoration: none;
+	border-color: #C92228;
 }
 
 p.share {text-align: center;}
