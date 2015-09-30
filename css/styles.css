@@ -155,7 +155,7 @@ div.clear {
 
 /* Social Sharing Image Sprite and Markup */
 
-a.social_sprite, a.social_sprite:active, a.social_sprite:link, a.social_sprite:visited {
+p.share a.social_sprite, p.share a.social_sprite:active, p.share a.social_sprite:link, p.share a.social_sprite:visited {
 	font-family: "League Gothic";
 	font-size: 1.25em;
 	padding: .125em;
@@ -168,22 +168,22 @@ a.social_sprite, a.social_sprite:active, a.social_sprite:link, a.social_sprite:v
 	color: #FFFFFF;
 	text-decoration: none;
 }
-	
-a.fb_share:hover {
+
+p.share a.fb_share:hover {
 	color: #FFFFFF;
 	background-color: #3b5998;
 	text-decoration: none;
 	border-color: #3b5988;
 }
-	
-a.tw_share:hover {
+
+p.share a.tw_share:hover {
 	color: #FFFFFF;
 	background-color: #00aced;
 	text-decoration: none;
 	border-color: #00aced;
 }
 
-a.pin_share {
+p.share a.pin_share {
 	color: #FFFFFF;
 	background-color: #C92228;
 	text-decoration: none;
