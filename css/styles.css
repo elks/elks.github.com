@@ -183,7 +183,7 @@ p.share a.tw_share:hover {
 	border-color: #00aced;
 }
 
-p.share a.pin_share {
+p.share a.pin_share:hover {
 	color: #FFFFFF;
 	background-color: #C92228;
 	text-decoration: none;
