@@ -156,38 +156,38 @@ div.clear {
 /* Social Sharing Image Sprite and Markup */
 
 p.share a.social_sprite, p.share a.social_sprite:active, p.share a.social_sprite:link, p.share a.social_sprite:visited {
-	font-family: "League Gothic";
-	font-size: 1.25em;
-	padding: .125em;
-	border: 5px solid #909599;
-	background-color: #909599;
-	margin: 0px 5px 10px 5px;
+	width: 50px;
+	height: 50px;
+	border-radius: 25px;
+	background-color: #000000;
+	text-indent: -9999px;
 	display: inline-block;
-	width: 2.5em;
-	transition: color .8s, background-color .8s, border-color .8s;
-	color: #FFFFFF;
-	text-decoration: none;
+	transition: background-color .8s;
+	margin: 5px;
+}
+
+p.share a.fb_share {
+	background-image: url('/assets/images/facebook.svg');
 }
 
 p.share a.fb_share:hover {
-	color: #FFFFFF;
 	background-color: #3b5998;
-	text-decoration: none;
-	border-color: #3b5988;
+}
+
+p.share a.tw_share {
+	background-image: url('/assets/images/twitter.svg');
 }
 
 p.share a.tw_share:hover {
-	color: #FFFFFF;
 	background-color: #00aced;
-	text-decoration: none;
-	border-color: #00aced;
+}
+
+p.share a.tw_share {
+	background-image: url('/assets/images/pinterest.svg');
 }
 
 p.share a.pin_share:hover {
-	color: #FFFFFF;
 	background-color: #C92228;
-	text-decoration: none;
-	border-color: #C92228;
 }
 
 p.share {text-align: center;}
