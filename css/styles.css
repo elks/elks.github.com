@@ -182,7 +182,7 @@ p.share a.tw_share:hover {
 	background-color: #00aced;
 }
 
-p.share a.tw_share {
+p.share a.pin_share {
 	background-image: url('/assets/images/pinterest.svg');
 }
 
