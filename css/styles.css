@@ -159,7 +159,7 @@ p.share a.social_sprite, p.share a.social_sprite:active, p.share a.social_sprite
 	width: 50px;
 	height: 50px;
 	border-radius: 25px;
-	background-color: #000000;
+	background-color: #B2B2B2;
 	text-indent: -9999px;
 	display: inline-block;
 	transition: background-color .8s;
