@@ -11,6 +11,13 @@
 		<ttl>120</ttl>
 		<atom:link href="https://git.erik.ms/rss.xml" rel="self" type="application/rss+xml" />
 		<item>
+			<title>Holy Incompetence, Virginia Beach GOP!</title>
+			<link>https://git.erik.ms/post/holy-incompetence-virginia-beach-gop/</link>
+			<description>We're 5 days away from the elections, and the Virginia Beach GOP hasn't published a voter guide.</description>
+			<guid>https://git.erik.ms/post/holy-incompetence-virginia-beach-gop/</guid>
+			<source url="https://git.erik.ms/rss.xml">Random Bits</source>
+		</item>
+		<item>
 			<title>3-0</title>
 			<link>https://git.erik.ms/post/3-0/</link>
 			<description>The Carolina Panthers defeated the New Orleans Saints to bring themselves to a 3-0 opening record.</description>
