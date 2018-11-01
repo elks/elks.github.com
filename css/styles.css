@@ -30,6 +30,11 @@ section#page-header span.byline {
 	font-size: .4em;
 	}
 	
+section#page-header a:link, section#page-header a:active, section#page-header a:hover, section#page-header a:visited {
+	color: #000000;
+	text-decoration: none;
+	}
+	
 div#page {
 	max-width: 50em;
 	padding: .5em;
@@ -40,6 +45,7 @@ header.article-header h1 {
 	font-family: "League Gothic";
 	font-size: 4em;
 	}
+	
 	
 p.post-date {
 	margin: 0 0 1.75em 0;
